@@ -1,0 +1,656 @@
+12/17/2024-19:17:54.565494  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55551 -> 192.168.37.1:53
+12/17/2024-19:17:54.565494  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55551 -> 192.168.37.1:53
+12/17/2024-19:17:54.565494  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55551 -> 192.168.37.1:53
+12/17/2024-19:19:11.815121  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:11.815121  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:11.815121  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:14.817106  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:14.817106  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:17.827537  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:17.827537  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:20.847468  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:20.847468  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:23.896448  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:23.896448  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:26.907027  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:26.907027  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:19:38.518119  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:20:13.203742  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:13.203742  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:13.203742  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:16.204567  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:16.204567  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:19.215980  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:19.215980  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:22.233949  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:22.233949  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:25.236853  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:25.236853  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:28.247517  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:28.247517  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:20:41.570130  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:26:37.237202  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:37.237202  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:37.237202  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:40.236882  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:40.236882  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:43.247203  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:43.247203  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:45.591580  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:26:46.263587  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:46.263587  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:49.270487  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:49.270487  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:52.280190  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:26:52.280190  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:38.575363  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:38.575363  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:38.575363  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:41.575433  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:41.575433  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:44.586791  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:44.586791  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:47.646708  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:47.646708  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:48.641999  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:27:50.654611  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:50.654611  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:53.665524  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:27:53.665524  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:04.016812  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:60634 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:28:04.016919  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:60634 -> 224.0.0.252:5355
+12/17/2024-19:28:18.317637  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:28:18.317637  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:28:18.317637  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:28:18.318588  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.254:67 -> 192.168.37.130:68
+12/17/2024-19:28:18.323654  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:28:18.516056  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:28:18.590784  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:18.590784  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:18.644105  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:28:18.644658  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:55322 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:28:18.644890  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:51640 -> 224.0.0.252:5355
+12/17/2024-19:28:18.644890  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:51640 -> 224.0.0.252:5355
+12/17/2024-19:28:18.750331  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:51640 -> 224.0.0.252:5355
+12/17/2024-19:28:21.589229  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:21.589229  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:24.601025  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:24.601025  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:27.619500  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:27.619500  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:30.621778  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:30.621778  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:33.632839  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:28:33.632839  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:48.635204  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:48.635204  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:48.635204  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:51.640093  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:51.640093  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:52.659367  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:33:54.650705  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:54.650705  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:57.663567  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:33:57.663567  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:00.671439  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:00.671439  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:03.682717  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:03.682717  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:48.982123  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:48.982123  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:48.982123  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:51.980261  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:51.980261  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:54.990934  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:54.990934  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:55.708542  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:34:58.011397  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:34:58.011397  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:35:01.012475  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:35:01.012475  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:35:04.023338  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:35:04.023338  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:40:59.725031  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:41:14.016286  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:14.016286  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:14.016286  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:17.021006  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:17.021006  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:23:29.715362  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:23:29.715362  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:28:18.326532  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:28:18.329131  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:59080 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:28:18.329243  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:54307 -> 224.0.0.252:5355
+12/17/2024-19:28:18.329243  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:54307 -> 224.0.0.252:5355
+12/17/2024-19:28:18.438927  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:54307 -> 224.0.0.252:5355
+12/17/2024-19:28:18.643230  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:28:19.015284  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:33:50.274227  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:33:50.275653  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:34:53.223082  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:34:53.223833  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:35:28.486340  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:35:28.486340  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:36:54.031925  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:36:54.033701  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:38:52.341211  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:38:52.341830  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:40:55.416635  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:40:55.418251  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:42:56.466814  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:42:56.468492  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:43:18.099253  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:43:18.105035  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:52592 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:43:18.105143  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:60128 -> 224.0.0.252:5355
+12/17/2024-19:43:18.105143  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:60128 -> 224.0.0.252:5355
+12/17/2024-19:43:18.201407  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:60128 -> 224.0.0.252:5355
+12/17/2024-19:43:18.404613  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:43:18.406097  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:52277 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:43:18.406518  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:56228 -> 224.0.0.252:5355
+12/17/2024-19:43:18.406518  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:56228 -> 224.0.0.252:5355
+12/17/2024-19:43:18.516049  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:43:18.516466  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:56228 -> 224.0.0.252:5355
+12/17/2024-19:43:54.392537  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:43:54.393422  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:44:57.273846  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:44:57.275718  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:46:58.084456  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:46:58.086432  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:47:25.495254  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:47:25.495254  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:48:56.432319  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:48:56.433889  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:50:59.688632  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:50:59.690588  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:53:00.493495  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:53:00.495355  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:53:58.501176  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:53:58.505211  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:55:01.302596  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:55:01.304450  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:57:02.102793  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:57:02.105322  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:58:04.084158  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:63923 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:58:18.567201  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:58:18.570709  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:58415 -> 224.0.0.252:5355
+12/17/2024-19:58:18.570709  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:58415 -> 224.0.0.252:5355
+12/17/2024-19:58:18.674450  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:58415 -> 224.0.0.252:5355
+12/17/2024-19:58:18.887090  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:58:18.887593  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:64843 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:58:19.016896  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:59:00.534990  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:59:00.536819  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:59:26.661162  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:59:26.661162  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-20:01:03.733009  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:01:03.733464  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:01:57.354850  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:01:57.354944  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:03:04.536154  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:03:04.537205  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:04:02.574870  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:04:02.576860  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:05:05.342624  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:05:05.343040  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:07:06.147620  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:07:06.150190  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:09:04.620408  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:09:04.621853  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:11:07.763636  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:11:07.765973  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:11:24.288831  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-20:11:24.288831  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-20:13:04.134950  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:53760 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:13:08.564365  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:13:08.565595  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:13:18.327471  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:13:18.331860  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:55841 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:13:18.526854  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:13:18.636998  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:13:18.637439  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:65152 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:14:06.664278  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:14:06.665582  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:15:09.371562  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:15:09.374055  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:17:10.179694  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:17:10.181965  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:19:08.689735  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:19:08.691579  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:21:11.814815  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:21:11.817361  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:23:12.630180  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:23:12.632669  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:23:22.221162  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-20:23:22.221162  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-20:24:10.746574  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:24:10.748900  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:25:13.445483  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:25:13.448481  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:27:14.251576  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:27:14.254193  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:28:18.253304  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:28:18.557530  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:28:18.560142  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:57439 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:28:19.024064  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:29:12.778073  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:41:20.030840  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:20.030840  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:12.780108  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:31:15.859828  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:41:23.049477  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:23.049477  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:31:15.861990  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:33:16.670258  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:41:26.053874  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:26.053874  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:33:16.672555  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:34:14.821063  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:41:29.063888  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:41:29.063888  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:34:14.822147  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:35:17.481929  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:42:02.774646  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:35:17.483366  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:35:21.846553  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-20:35:21.846553  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:138 -> 192.168.37.255:138
+12/17/2024-19:42:13.362253  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:42:13.362253  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:42:13.362253  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:18.301362  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:37:18.303300  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:42:16.362986  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:42:16.362986  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:39:16.855372  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:39:16.856878  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:42:19.373009  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:42:19.373009  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:41:19.908484  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-20:41:19.909931  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:42:22.392253  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:42:22.392253  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:18.307777  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:43:18.312246  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:64667 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:42:25.394752  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:42:25.394752  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:18.503417  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:43:18.621712  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:43:20.711393  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:42:28.405905  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:42:28.405905  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:20.714884  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-20:44:18.891525  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:5353 -> 224.0.0.251:5353
+12/17/2024-19:43:04.016750  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:63114 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:44:18.892774  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:5353 -> ff02:0000:0000:0000:0000:0000:0000:00fb:5353
+12/17/2024-19:43:04.016833  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:63114 -> 224.0.0.252:5355
+12/17/2024-19:43:18.094022  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:43:18.094022  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:43:18.094022  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:43:18.094736  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.254:67 -> 192.168.37.130:68
+12/17/2024-19:43:18.102855  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:43:18.368191  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:18.368191  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:18.368191  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:18.405478  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:43:21.368444  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:21.368444  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:24.378764  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:24.378764  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:27.398654  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:27.398654  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:30.400272  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:30.400272  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:33.411581  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:43:33.411581  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:06.810552  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:48:25.600446  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:25.600446  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:25.600446  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:28.649888  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:28.649888  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:31.945490  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:31.945490  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:34.954470  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:34.954470  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:38.020926  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:38.020926  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:41.081193  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:48:41.081193  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:09.942317  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:49:28.433871  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:28.433871  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:28.433871  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:31.441449  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:31.441449  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:34.450673  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:34.450673  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:37.467904  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:37.467904  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:40.472453  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:40.472453  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:43.482963  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:49:43.482963  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:02.469120  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:02.469120  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:02.469120  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:05.469288  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:05.469288  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:08.479137  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:08.479137  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:11.498830  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:11.498830  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:13.958103  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:55:14.500087  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:14.500087  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:17.511351  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:55:17.511351  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:01.826324  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:01.826324  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:01.826324  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:04.825622  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:04.825622  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:07.836626  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:07.836626  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:10.849677  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:10.849677  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:13.858127  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:13.858127  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:16.868736  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:16.868736  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:56:17.009531  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-19:58:04.084158  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:63923 -> 224.0.0.252:5355
+12/17/2024-19:58:18.565216  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:58:18.565216  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:58:18.565216  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-19:58:18.565502  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.254:67 -> 192.168.37.130:68
+12/17/2024-19:58:18.568713  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:58:18.570601  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:65390 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-19:58:18.841901  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:18.841901  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:18.841901  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:18.887375  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-19:58:18.887683  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:50674 -> 224.0.0.252:5355
+12/17/2024-19:58:18.887683  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:50674 -> 224.0.0.252:5355
+12/17/2024-19:58:18.985972  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:50674 -> 224.0.0.252:5355
+12/17/2024-19:58:21.840964  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:21.840964  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:24.851443  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:24.851443  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:27.869158  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:27.869158  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:30.880798  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:30.880798  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:33.884117  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-19:58:33.884117  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:31.876073  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:31.876073  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:31.876073  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:34.875564  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:34.875564  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:37.886344  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:37.886344  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:40.905099  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:40.905099  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:43.907928  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:43.907928  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:46.918456  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:01:46.918456  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:21.037483  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:02:31.208585  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:31.208585  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:31.208585  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:34.214963  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:34.214963  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:37.637530  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:37.637530  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:40.645373  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:40.645373  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:43.653175  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:43.653175  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:46.663706  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:02:46.663706  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:03:24.088479  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:09:00.245100  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:00.245100  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:00.245100  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:03.248782  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:03.248782  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:06.259924  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:06.259924  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:09.272385  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:09.272385  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:12.280998  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:12.280998  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:15.292341  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:15.292341  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:09:28.103589  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:10:00.588034  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:00.588034  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:00.588034  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:03.588726  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:03.588726  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:06.599972  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:06.599972  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:09.617666  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:09.617666  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:12.621313  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:12.621313  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:15.632142  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:15.632142  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:10:31.154383  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:13:04.135097  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:53760 -> 224.0.0.252:5355
+12/17/2024-20:13:18.325085  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:13:18.325085  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:13:18.325085  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:13:18.325292  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.254:67 -> 192.168.37.130:68
+12/17/2024-20:13:18.329314  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:13:18.332004  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:56063 -> 224.0.0.252:5355
+12/17/2024-20:13:18.332004  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:56063 -> 224.0.0.252:5355
+12/17/2024-20:13:18.433120  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:56063 -> 224.0.0.252:5355
+12/17/2024-20:13:18.594677  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:18.594677  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:18.594677  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:18.636475  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:13:18.637615  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:64808 -> 224.0.0.252:5355
+12/17/2024-20:13:18.637615  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:64808 -> 224.0.0.252:5355
+12/17/2024-20:13:18.745665  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:64808 -> 224.0.0.252:5355
+12/17/2024-20:13:19.026219  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:13:21.600919  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:21.600919  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:24.610699  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:24.610699  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:27.625775  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:27.625775  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:30.632238  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:30.632238  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:33.643883  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:13:33.643883  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:14.628349  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:14.628349  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:14.628349  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:17.634242  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:17.634242  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:20.645310  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:20.645310  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:23.663727  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:23.663727  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:26.666204  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:26.666204  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:29.677036  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:29.677036  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:16:35.171724  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:17:13.972091  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:13.972091  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:13.972091  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:16.975988  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:16.975988  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:19.986864  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:19.986864  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:23.005857  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:23.005857  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:26.009088  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:26.009088  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:29.018988  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:29.018988  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:17:38.222878  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:22:47.020549  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:47.020549  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:47.020549  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:50.020542  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:50.020542  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:53.031705  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:53.031705  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:56.051036  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:56.051036  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:59.053366  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:22:59.053366  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:02.064487  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:02.064487  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:42.238785  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:23:45.506406  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:45.506406  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:45.506406  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:48.504962  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:48.504962  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:51.515370  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:51.515370  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:54.534467  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:54.534467  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:57.537386  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:23:57.537386  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:24:00.549023  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:24:00.549023  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:24:45.289071  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:28:04.192246  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:50465 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:28:04.192246  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:50465 -> 224.0.0.252:5355
+12/17/2024-20:28:18.245238  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:28:18.245238  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:28:18.245238  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:28:18.246781  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.254:67 -> 192.168.37.130:68
+12/17/2024-20:28:18.250236  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:28:18.256238  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:63498 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:28:18.256375  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:64890 -> 224.0.0.252:5355
+12/17/2024-20:28:18.256375  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:64890 -> 224.0.0.252:5355
+12/17/2024-20:28:18.353388  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:64890 -> 224.0.0.252:5355
+12/17/2024-20:28:18.521357  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:18.521357  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:18.521357  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:18.524709  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:28:18.559073  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:28:18.560480  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:60551 -> 224.0.0.252:5355
+12/17/2024-20:28:18.560480  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:60551 -> 224.0.0.252:5355
+12/17/2024-20:28:18.665832  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:60551 -> 224.0.0.252:5355
+12/17/2024-20:28:21.521309  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:21.521309  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:24.506611  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:24.506611  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:27.522075  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:27.522075  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:30.524927  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:30.524927  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:33.535827  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:28:33.535827  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:16.832466  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:16.832466  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:16.832466  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:19.836654  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:19.836654  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:22.846834  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:22.846834  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:25.861416  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:25.861416  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:28.868908  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:28.868908  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:31.879615  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:29:31.879615  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:16.173087  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:16.173087  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:16.173087  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:19.180296  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:19.180296  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:22.190247  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:22.190247  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:25.207548  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:25.207548  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:28.210845  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:28.210845  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:31.222006  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:31.222006  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:30:49.292372  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:31:52.342363  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:36:46.221080  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:46.221080  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:46.221080  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:49.219995  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:49.219995  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:52.231278  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:52.231278  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:55.249252  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:55.249252  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:58.253243  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:36:58.253243  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:01.263869  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:01.263869  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:45.558425  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:45.558425  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:45.558425  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:48.563123  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:48.563123  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:51.573378  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:51.573378  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:54.587356  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:54.587356  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:56.364649  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:37:57.595047  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:37:57.595047  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:38:00.606325  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:38:00.606325  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:38:59.417652  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
+12/17/2024-20:43:04.223737  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:9fe3:2185:96c6:5f90:49875 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:43:04.223863  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.1:49875 -> 224.0.0.252:5355
+12/17/2024-20:43:18.302761  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:43:18.302761  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:43:18.302761  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:68 -> 192.168.37.254:67
+12/17/2024-20:43:18.303300  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.254:67 -> 192.168.37.130:68
+12/17/2024-20:43:18.310099  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:43:18.312351  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:64019 -> 224.0.0.252:5355
+12/17/2024-20:43:18.312351  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:64019 -> 224.0.0.252:5355
+12/17/2024-20:43:18.410494  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:64019 -> 224.0.0.252:5355
+12/17/2024-20:43:18.582235  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:18.582235  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:18.582235  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:18.621297  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:43:18.622076  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:57171 -> ff02:0000:0000:0000:0000:0000:0001:0003:5355
+12/17/2024-20:43:18.622187  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:62308 -> 224.0.0.252:5355
+12/17/2024-20:43:18.622187  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:62308 -> 224.0.0.252:5355
+12/17/2024-20:43:18.721823  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:62308 -> 224.0.0.252:5355
+12/17/2024-20:43:19.002396  [**] [1:2200073:2] SURICATA IPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {IGMP} 192.168.37.130:0 -> 224.0.0.22:0
+12/17/2024-20:43:21.593161  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:21.593161  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:24.607376  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:24.607376  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:27.621039  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:27.621039  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:30.625476  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:30.625476  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:33.635100  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:33.635100  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:36.654745  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:36.654745  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:39.657414  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:39.657414  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:42.668183  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:43:42.668183  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:33.965678  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:33.965678  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:33.965678  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:36.971744  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:36.971744  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:39.981831  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:39.981831  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:43.000058  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:43.000058  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:46.004086  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:46.004086  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:49.014671  [**] [1:200004:1] Zeus SSDP Discovery Traffic Detected [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:44:49.014671  [**] [1:2200075:2] SURICATA UDPv4 invalid checksum [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.168.37.130:55026 -> 239.255.255.250:1900
+12/17/2024-20:45:03.432071  [**] [1:100004:1] UDP Packet Detected [**] [Classification: (null)] [Priority: 3] {UDP} fe80:0000:0000:0000:8810:3337:f1e3:ebc7:546 -> ff02:0000:0000:0000:0000:0000:0001:0002:547
