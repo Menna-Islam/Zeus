@@ -18,25 +18,25 @@ ________________________________________
 • Configured default and custom Suricata rules to identify Zeus C2 traffic patterns. <br>
 • Detected suspicious outbound traffic. <br>
 ### 2. Log Correlation and Visualization with Splunk <br>
-• Ingested Suricata logs and memory analysis results into Splunk.
-• Correlated network anomalies with system process activity.
-• Created dashboards to visualize: 
-      - Active network connections.
-      - Zeus-specific alerts.
-      - Process behaviors linked to network activity.
+• Ingested Suricata logs and memory analysis results into Splunk. <br>
+• Correlated network anomalies with system process activity.<br>
+• Created dashboards to visualize: <br>
+      - Active network connections.<br>
+      - Zeus-specific alerts.<br>
+      - Process behaviors linked to network activity.<br>
 ### 3. Memory Dump Analysis with Volatility
-• Extracted memory artifacts using Volatility plugins: 
-      - windows.pslist: Verified process visibility to detect hidden processes.
-      - windows.pstree: Analyzed parent-child relationships of processes.
-      - windows.netscan: Identified active network connections and listening ports.
-• Key Findings: 
-      - Suspicious processes (services.exe, svchost.exe) exhibiting malicious behavior such as unusual listening ports and injected code.
+• Extracted memory artifacts using Volatility plugins: <br>
+      - windows.pslist: Verified process visibility to detect hidden processes.<br>
+      - windows.pstree: Analyzed parent-child relationships of processes.<br>
+      - windows.netscan: Identified active network connections and listening ports.<br>
+• Key Findings: <br>
+      - Suspicious processes (services.exe, svchost.exe) exhibiting malicious behavior such as unusual listening ports and injected code.<br>
 ## 4. YARA Rule Implementation
-• Created a custom YARA rule (Zeus_Malware_General) to detect Zeus-specific patterns: 
-      - NOP sleds, PE headers, shellcode patterns, and C2 traffic indicators.
-• Scanned memory dumps with the rule to identify Zeus-related artifacts.
-• Key Matches: 
-      - Multiple occurrences of MZ and PE headers, along with suspicious NOP sleds and C2 strings.
+• Created a custom YARA rule (Zeus_Malware_General) to detect Zeus-specific patterns: <br>
+      - NOP sleds, PE headers, shellcode patterns, and C2 traffic indicators.<br>
+• Scanned memory dumps with the rule to identify Zeus-related artifacts.<br>
+• Key Matches: <br>
+      - Multiple occurrences of MZ and PE headers, along with suspicious NOP sleds and C2 strings.<br>
 ________________________________________
 ## Key Findings
 ### 1. Malicious Processes: 
@@ -49,45 +49,45 @@ ________________________________________
 • Unusual listening ports and multicast DNS (port 5355) misuse.
 ________________________________________
 ## File Structure
-project/
-├── suricata_logs/         # Suricata alerts and network traffic logs
-├── splunk_dashboards/     # Splunk dashboard JSON exports
-├── volatility_logs/       # Volatility output logs
-├── memory_dumps/          # Memory dumps for analysis
-├── yara_rules/            # YARA rule files
-│   └── yarazeus.yar       # Zeus-specific YARA rule
-├── README.md              # Project documentation (this file)
-└── results/               # Analysis results and summaries
+project/<br>
+├── suricata_logs/         # Suricata alerts and network traffic logs<br>
+├── splunk_dashboards/     # Splunk dashboard JSON exports<br>
+├── volatility_logs/       # Volatility output logs<br>
+├── memory_dumps/          # Memory dumps for analysis<br>
+├── yara_rules/            # YARA rule files<br>
+│   └── yarazeus.yar       # Zeus-specific YARA rule<br>
+├── README.md              # Project documentation (this file)<br>
+└── results/               # Analysis results and summaries<br>
 ________________________________________
 ## How to Run the Analysis
 ### 1. Network Traffic Monitoring with Suricata
-• Install and configure Suricata. <br
-• Add custom rules for Zeus detection.
-• Run Suricata to monitor network traffic and generate logs: 
-• suricata -c /etc/suricata/suricata.yaml -i eth0
-• Analyze the generated logs in the suricata_logs/ directory for suspicious traffic patterns.
+• Install and configure Suricata. <br>
+• Add custom rules for Zeus detection.<br>
+• Run Suricata to monitor network traffic and generate logs: <br>
+• suricata -c /etc/suricata/suricata.yaml -i eth0<br>
+• Analyze the generated logs in the suricata_logs/ directory for suspicious traffic patterns.<br>
 ### 2. Log Correlation and Visualization with Splunk
-• Install Splunk and configure data ingestion.
-• Import logs from suricata_logs/ and volatility_logs/ into Splunk.
-• Create dashboards to correlate network and process activity. 
-      - Visualize Zeus-specific alerts and behaviors.
-      - Identify anomalies linked to process behaviors.
+• Install Splunk and configure data ingestion.<br>
+• Import logs from suricata_logs/ and volatility_logs/ into Splunk.<br>
+• Create dashboards to correlate network and process activity. <br>
+      - Visualize Zeus-specific alerts and behaviors.<br>
+      - Identify anomalies linked to process behaviors.<br>
 ### 3. Memory Dump Analysis with Volatility
-• Use Volatility to analyze memory dumps located in memory_dumps/: 
-• volatility3 -f memory_dumps/zeus.mem windows.pslist
-• volatility3 -f memory_dumps/zeus.mem windows.pstree
-• volatility3 -f memory_dumps/zeus.mem windows.netscan
-• Document findings in the volatility_logs/ directory.
+• Use Volatility to analyze memory dumps located in memory_dumps/: <br>
+• volatility3 -f memory_dumps/zeus.mem windows.pslist<br>
+• volatility3 -f memory_dumps/zeus.mem windows.pstree<br>
+• volatility3 -f memory_dumps/zeus.mem windows.netscan<br>
+• Document findings in the volatility_logs/ directory.<br>
 ### 4. YARA Rule Implementation
-• Write or use custom YARA rules stored in yara_rules/.
-• Scan memory dumps for Zeus artifacts: 
-• yara -r yara_rules/yarazeus.yar memory_dumps/zeus.mem
-• Save the analysis results in the results/ directory.
+• Write or use custom YARA rules stored in yara_rules/.<br>
+• Scan memory dumps for Zeus artifacts: <br>
+• yara -r yara_rules/yarazeus.yar memory_dumps/zeus.mem<br>
+• Save the analysis results in the results/ directory.<br>
 ________________________________________
 ## Contributors
-• Menna Mohamed Islam
-• Haneen Amr Abdelhameed  
-• Tasneem Khaled El-Ashry
+• Menna Mohamed Islam 
+• Haneen Amr Abdelhameed  <a href="https://github.com/haneennamr">Haneen Amr</a>
+• Tasneem Khaled El-Ashry <a href="https://github.com/tasneem1412">Tasneem Khaled</a>
 ________________________________________
 ## Disclaimer
 This project is for educational and research purposes only. Ensure all malware analysis is conducted in a secure, isolated environment to prevent accidental infection or data leaks.
