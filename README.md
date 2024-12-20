@@ -86,8 +86,8 @@ ________________________________________
 ________________________________________
 ## Contributors
 • Menna Mohamed Islam 
-• Haneen Amr Abdelhameed  <a href="https://github.com/haneennamr">Haneen Amr</a>
-• Tasneem Khaled El-Ashry <a href="https://github.com/tasneem1412">Tasneem Khaled</a>
+• Haneen Amr Abdelhameed  <a href="https://github.com/haneennamr">Haneen Amr</a> <br>
+• Tasneem Khaled El-Ashry <a href="https://github.com/tasneem1412">Tasneem Khaled</a> <br>
 ________________________________________
 ## Disclaimer
 This project is for educational and research purposes only. Ensure all malware analysis is conducted in a secure, isolated environment to prevent accidental infection or data leaks.
