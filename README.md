@@ -85,7 +85,7 @@ ________________________________________
 • Save the analysis results in the results/ directory.<br>
 ________________________________________
 ## Contributors
-• Menna Mohamed Islam 
+• Menna Mohamed Islam  <br>
 • Haneen Amr Abdelhameed  <a href="https://github.com/haneennamr">Haneen Amr</a> <br>
 • Tasneem Khaled El-Ashry <a href="https://github.com/tasneem1412">Tasneem Khaled</a> <br>
 ________________________________________
