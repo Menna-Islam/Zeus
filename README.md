@@ -29,13 +29,13 @@ ________________________________________
       - windows.pslist: Verified process visibility to detect hidden processes.<br>
       - windows.pstree: Analyzed parent-child relationships of processes.<br>
       - windows.netscan: Identified active network connections and listening ports.<br>
-• Key Findings: <br>
+### • Key Findings: <br>
       - Suspicious processes (services.exe, svchost.exe) exhibiting malicious behavior such as unusual listening ports and injected code.<br>
 ## 4. YARA Rule Implementation
 • Created a custom YARA rule (Zeus_Malware_General) to detect Zeus-specific patterns: <br>
       - NOP sleds, PE headers, shellcode patterns, and C2 traffic indicators.<br>
 • Scanned memory dumps with the rule to identify Zeus-related artifacts.<br>
-• Key Matches: <br>
+### • Key Matches: <br>
       - Multiple occurrences of MZ and PE headers, along with suspicious NOP sleds and C2 strings.<br>
 ________________________________________
 ## Key Findings
