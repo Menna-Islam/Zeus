@@ -15,9 +15,9 @@ ________________________________________
 ________________________________________
 ## Project Steps
 ### 1. Network Traffic Monitoring with Suricata
-• Configured default and custom Suricata rules to identify Zeus C2 traffic patterns.
-• Detected suspicious outbound traffic.
-### 2. Log Correlation and Visualization with Splunk
+• Configured default and custom Suricata rules to identify Zeus C2 traffic patterns. <br>
+• Detected suspicious outbound traffic. <br>
+### 2. Log Correlation and Visualization with Splunk <br>
 • Ingested Suricata logs and memory analysis results into Splunk.
 • Correlated network anomalies with system process activity.
 • Created dashboards to visualize: 
@@ -61,7 +61,7 @@ project/
 ________________________________________
 ## How to Run the Analysis
 ### 1. Network Traffic Monitoring with Suricata
-• Install and configure Suricata.
+• Install and configure Suricata. <br
 • Add custom rules for Zeus detection.
 • Run Suricata to monitor network traffic and generate logs: 
 • suricata -c /etc/suricata/suricata.yaml -i eth0
